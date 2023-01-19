@@ -19,4 +19,4 @@
  The inputted data is assumed to be reflective of the example data. 
  ## Example
  Here is an example of the outputted data with the training data.
- ![Example table, rendered in IDLE](https://github.com/[moria161]/[HeadToHeadTableGen]/blob/[main]/example_table.png?raw=true)
+ ![Example table, rendered in IDLE](https://github.com/moria161/HeadToHeadTableGen/blob/main/example_table.png?raw=true)
